@@ -32,7 +32,7 @@ var bannersnack_embed = {"hash":"bxjev5lsu","width":1600,"height":120,"t":151318
 <details align=center>
   <summary>Copyright 2017-2018.</summary>
   <p> - by 'Bbeasts. All Rights Reserved.</p>
-  <p>All content and graphics on this web site are the property of the company 'Bbeasts..</p>
+  <p>All content and graphics on this web site are the property of the company 'Bbeasts.</p>
 </details></div>
 </footer><hr>
 </html>
